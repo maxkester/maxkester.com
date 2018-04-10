@@ -3497,6 +3497,10 @@
 			body, input, select, textarea {
 				font-size: 13pt;
 			}
+			
+			.spotlight.left .content, .spotlight.right .content {
+				padding: 1.5em 1.5em;
+			}
 
 	}
 
