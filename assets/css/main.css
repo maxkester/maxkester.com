@@ -3500,6 +3500,7 @@
 			
 			.spotlight.left .content, .spotlight.right .content {
 				padding: 1.5em 1.5em;
+				width: 30em;
 			}
 
 	}
@@ -3712,7 +3713,7 @@
 					border-top-width: 0.2em !important;
 					padding: 2.25em 1.5em 1.25em 1.5em !important;
 				}
-
+	
 		/* Wrapper */
 
 			.wrapper {
