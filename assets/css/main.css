@@ -3521,7 +3521,7 @@
 			}
 
 			.spotlight.left .content, .spotlight.right .content {
-				padding: 4.5em 2.5em;
+				padding: 2.5em 2.5em;
 				width: 25em;
 			}
 
@@ -3581,7 +3581,7 @@
 					border-top-width: 0.35em !important;
 					bottom: auto !important;
 					left: auto !important;
-					padding: 4.5em 2.5em 2.5em 2.5em !important;
+					padding: 2.5em 2.5em 2.5em 2.5em !important;
 					position: relative;
 					right: auto !important;
 					text-align: center;
@@ -3596,7 +3596,7 @@
 		/* Wrapper */
 
 			.wrapper {
-				padding: 4.5em 2.5em 2.5em 2.5em;
+				padding: 2.5em 2.5em 2.5em 2.5em;
 			}
 
 		/* Banner */
@@ -3706,7 +3706,7 @@
 
 				.spotlight .content {
 					border-top-width: 0.2em !important;
-					padding: 3.25em 1.5em 1.25em 1.5em !important;
+					padding: 2.25em 1.5em 1.25em 1.5em !important;
 				}
 
 		/* Wrapper */
